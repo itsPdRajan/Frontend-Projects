@@ -44,8 +44,8 @@ body {
   justify-content: flex-start;
   z-index: 10;
   font-weight: 300;
-  /* transition: 0.2s ease-in-out; */
-  /* transition: transform 400ms ease-in-out; */
+  transition: 0.2s ease-in-out;
+  transition: transform 400ms ease-in-out;
   position: fixed;
 }
 
@@ -55,13 +55,10 @@ body {
   justify-content: flex-end;
   margin-left: 55vh;
   margin-top: -49px;
-  padding: 0vh 4vw; */
   list-style: none;
   display: flex;
   justify-content: flex-end;
-  /* margin-left: 55vh; */
   margin-top: -49px;
-  /* margin: auto; */
   padding: 0vh 4vw;
 }
 
